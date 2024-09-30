@@ -1,12 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yi0Zbe2y)
 # MAST30034 Project 1 README.md
 - Name: Do Nhat Anh Ha
-- Student ID: 1194034
 
 **Research Goal:** Predicting monthly taxi demands using weather, socio-economic data and season effects.
 
 **Timeline:** The timeline for the research area is  March 2023 - May 2024. The models were train using data from March 2023 to Febuary 2024 and were test using data from March 2024 to May 2024
 
+**Note**: Please create a folder called `data` if you clone the repository. Inside `data/` create 3 more folders, `data/raw`, `data/curated`, `data/landing`
 **Model used:** *Random Forest Regression* and *Generalised Linear Model*
 
 To run the pipeline, please visit the `notebooks` directory and run the files in order:
